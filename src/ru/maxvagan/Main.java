@@ -58,5 +58,6 @@ public class Main {
                 "За год его прибыль увеличилась на " + yearSalaryProfitOfDenis + " руб.");
         System.out.println("Зарплата Кристины составляет: " + incrSalaryChristina + " руб. " +
                 "За год её прибыль увеличилась на " + yearSalaryProfitOfChristina + " руб.");
+        System.out.println("Для пул-запроса в Гите!");
     }
 }
